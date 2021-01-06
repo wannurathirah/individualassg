@@ -1,0 +1,53 @@
+
+
+
+body
+{
+	 background-color: moccasin;
+    
+}
+
+p
+{
+	font-family:'nerko one', cursive;
+	font-size:40px;
+}
+
+h1
+{
+	font-family:'nerko one', cursive ;
+	font-size:50px;
+}
+
+h2
+{
+	font-family:'nerko one', cursive ;
+}
+
+h3
+{
+	font-family: 'nerko one', cursive ;
+}
+
+
+h4
+{
+	font-family: 'nerko one', cursive ;
+}
+
+
+a
+
+{
+	font-family: 'nerko one', cursive;
+	color:darkred;
+	background-color:white;
+	padding: 10px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	border-radius:50px;
+}
+
+
+
